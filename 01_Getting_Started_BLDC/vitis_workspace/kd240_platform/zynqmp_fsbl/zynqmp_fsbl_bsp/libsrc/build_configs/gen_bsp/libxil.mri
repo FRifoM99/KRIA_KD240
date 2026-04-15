@@ -1,0 +1,30 @@
+create libxil.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/zdma/src/libzdma.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/wdtps/src/libwdtps.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/video_common/src/libvideo_common.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/usbpsu/src/libusbpsu.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/uartps/src/libuartps.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/ttcps/src/libttcps.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/sysmonpsu/src/libsysmonpsu.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/spips/src/libspips.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/scugic/src/libscugic.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/rtcpsu/src/librtcpsu.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/resetps/src/libresetps.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/qspipsu/src/libqspipsu.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/ipipsu/src/libipipsu.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/intc/src/libintc.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/iicps/src/libiicps.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/gpiops/src/libgpiops.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/gpio/src/libgpio.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/emacps/src/libemacps.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/dppsu/src/libdppsu.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/dpdma/src/libdpdma.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/ddrcpsu/src/libddrcpsu.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/csudma/src/libcsudma.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/coresightps_dcc/src/libcoresightps_dcc.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/clockps/src/libclockps.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/canps/src/libcanps.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/axipmon/src/libaxipmon.a
+addlib D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/zynqmp_fsbl_bsp/libsrc/build_configs/gen_bsp/libsrc/avbuf/src/libavbuf.a
+save
+end

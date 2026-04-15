@@ -1,0 +1,3 @@
+D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/build/CMakeFiles/fsbl.elf.dir
+D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/build/CMakeFiles/edit_cache.dir
+D:/Vivado/KRIA_bldc_test/vitis_workspace/kd240_platform/zynqmp_fsbl/build/CMakeFiles/rebuild_cache.dir

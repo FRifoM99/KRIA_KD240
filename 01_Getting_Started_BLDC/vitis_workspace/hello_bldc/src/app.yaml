@@ -1,0 +1,4 @@
+domain_path: D:\Vivado\KRIA_bldc_test\vitis_workspace\kd240_platform\export\kd240_platform\sw\standalone_psu_cortexa53_0
+app_src_dir: D:\Programas\Xilinx\2025.1\Vitis\data\embeddedsw\lib\sw_apps\hello_world
+template: hello_world
+lang: c
