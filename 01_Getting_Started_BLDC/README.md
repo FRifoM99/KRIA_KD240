@@ -21,3 +21,4 @@ Se incluye el archivo **XSA** exportado desde el proyecto de diseño de Vivado. 
 
 ## 🔗 Referencia
 * [Tutorial Original - Hackster.io](https://www.hackster.io/whitney-knitter/getting-started-with-bldcs-on-kria-kd240-motor-kit-part-1-c18318)
+* [Explicación motores BLDC](https://www.reddit.com/r/Motors/comments/m89473/bldc_motor_controller_how_it_works_design/)
