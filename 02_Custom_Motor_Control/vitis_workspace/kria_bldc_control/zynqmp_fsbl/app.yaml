@@ -1,0 +1,4 @@
+domain_path: D:\Vivado\control_bldc\kria_bldc_control\zynqmp_fsbl\zynqmp_fsbl_bsp
+app_src_dir: D:\Programas\AMDDesignTools\2025.2\Vitis\data\embeddedsw\lib\sw_apps\zynqmp_fsbl
+template: zynqmp_fsbl
+lang: c

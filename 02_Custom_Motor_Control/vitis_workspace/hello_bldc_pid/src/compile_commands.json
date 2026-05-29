@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Vivado/control_bldc/hello_bldc_pid/build",
+  "command": "D:\\Programas\\AMDDesignTools\\2025.2\\Vitis\\gnu\\aarch64\\nt\\aarch64-none\\bin\\aarch64-none-elf-gcc.exe -isystem D:/Vivado/control_bldc/kria_bldc_control/export/kria_bldc_control/sw/standalone_psu_cortexa53_0/include -isystem D:/Programas/AMDDesignTools/2025.2/gnu/aarch64/nt/aarch64-none/x86_64-oesdk-mingw32/usr/lib/aarch64-xilinx-elf/gcc/aarch64-xilinx-elf/13.3.0/include -isystem D:/Programas/AMDDesignTools/2025.2/gnu/aarch64/nt/aarch64-none/x86_64-oesdk-mingw32/usr/lib/aarch64-xilinx-elf/gcc/aarch64-xilinx-elf/13.3.0/include-fixed -isystem D:/Programas/AMDDesignTools/2025.2/Vitis/gnu/aarch64/nt/aarch64-none/aarch64-xilinx-elf/usr/include  -DSDT  -MMD -MP -specs=D:/Vivado/control_bldc/kria_bldc_control/export/kria_bldc_control/sw/standalone_psu_cortexa53_0/Xilinx.spec -ID:/Vivado/control_bldc/kria_bldc_control/export/kria_bldc_control/sw/standalone_psu_cortexa53_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles\\hello_bldc_pid.elf.dir\\helloworld.c.obj -c D:\\Vivado\\control_bldc\\hello_bldc_pid\\src\\helloworld.c",
+  "file": "D:\\Vivado\\control_bldc\\hello_bldc_pid\\src\\helloworld.c"
+},
+{
+  "directory": "D:/Vivado/control_bldc/hello_bldc_pid/build",
+  "command": "D:\\Programas\\AMDDesignTools\\2025.2\\Vitis\\gnu\\aarch64\\nt\\aarch64-none\\bin\\aarch64-none-elf-gcc.exe -isystem D:/Vivado/control_bldc/kria_bldc_control/export/kria_bldc_control/sw/standalone_psu_cortexa53_0/include -isystem D:/Programas/AMDDesignTools/2025.2/gnu/aarch64/nt/aarch64-none/x86_64-oesdk-mingw32/usr/lib/aarch64-xilinx-elf/gcc/aarch64-xilinx-elf/13.3.0/include -isystem D:/Programas/AMDDesignTools/2025.2/gnu/aarch64/nt/aarch64-none/x86_64-oesdk-mingw32/usr/lib/aarch64-xilinx-elf/gcc/aarch64-xilinx-elf/13.3.0/include-fixed -isystem D:/Programas/AMDDesignTools/2025.2/Vitis/gnu/aarch64/nt/aarch64-none/aarch64-xilinx-elf/usr/include  -DSDT  -MMD -MP -specs=D:/Vivado/control_bldc/kria_bldc_control/export/kria_bldc_control/sw/standalone_psu_cortexa53_0/Xilinx.spec -ID:/Vivado/control_bldc/kria_bldc_control/export/kria_bldc_control/sw/standalone_psu_cortexa53_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles\\hello_bldc_pid.elf.dir\\platform.c.obj -c D:\\Vivado\\control_bldc\\hello_bldc_pid\\src\\platform.c",
+  "file": "D:\\Vivado\\control_bldc\\hello_bldc_pid\\src\\platform.c"
+}
+]

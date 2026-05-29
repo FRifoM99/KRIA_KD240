@@ -1,0 +1,4 @@
+D:/Vivado/control_bldc/kria_bldc_control/zynqmp_fsbl/build/CMakeFiles/fsbl.elf.dir
+D:/Vivado/control_bldc/kria_bldc_control/zynqmp_fsbl/build/CMakeFiles/print_build_info.dir
+D:/Vivado/control_bldc/kria_bldc_control/zynqmp_fsbl/build/CMakeFiles/edit_cache.dir
+D:/Vivado/control_bldc/kria_bldc_control/zynqmp_fsbl/build/CMakeFiles/rebuild_cache.dir
